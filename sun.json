@@ -1,0 +1,382 @@
+{
+  "id": "sun-friedkielbasa",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@friedkielbasa Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_72dab4b76df5",
+    "display_name": "friedkielbasa",
+    "user_id": "@friedkielbasa",
+    "description": "Community Archive-derived proof-of-search sun for @friedkielbasa.",
+    "document_count": 13789,
+    "word_count": 218116,
+    "active_days": 1399,
+    "emissions": [
+      "Lol",
+      "Good",
+      "Think",
+      "Yeah",
+      "Samswoora",
+      "Don"
+    ],
+    "generated_at": "2026-06-27T16:04:22.012977+00:00",
+    "color": "#f59e0b",
+    "mass": 12.293
+  },
+  "planets": [
+    {
+      "id": "planet_70a8acefdc7e",
+      "name": "Lol",
+      "summary": "Archive cluster around lol: 11531 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "lol",
+        "thanks",
+        "letkma",
+        "which",
+        "lmao"
+      ],
+      "artifacts": [
+        {
+          "id": "art_299488157b5c",
+          "title": "Lol receipt from 2024-05-10",
+          "excerpt": "Until a man is twenty-five, he still thinks, every so often, that under the right circumstances he could be the baddest motherfucker in the world. If I moved to a martial-arts monastery in China and studied real hard for ten years. If my family was wiped out by Colombian drug… https://t.co/VwyWxc0ivZ",
+          "source_document_id": "1788940580116222008",
+          "timestamp": "2024-05-10T14:34:05+00:00",
+          "url": "https://x.com/friedkielbasa/status/1788940580116222008",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, thanks, letkma, which."
+        },
+        {
+          "id": "art_0aae8ac2c3d5",
+          "title": "Lol receipt from 2022-08-09",
+          "excerpt": "elite colleges reputation launder the rich students by associating them with the very smart students",
+          "source_document_id": "1556829282512642048",
+          "timestamp": "2022-08-09T02:26:40+00:00",
+          "url": "https://x.com/friedkielbasa/status/1556829282512642048",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, thanks, letkma, which."
+        },
+        {
+          "id": "art_233af74930a4",
+          "title": "Lol receipt from 2024-05-10",
+          "excerpt": "I still got it. Gotta hold on to the dream",
+          "source_document_id": "1788940646826570136",
+          "timestamp": "2024-05-10T14:34:21+00:00",
+          "url": "https://x.com/friedkielbasa/status/1788940646826570136",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, thanks, letkma, which."
+        },
+        {
+          "id": "art_12a984847862",
+          "title": "Lol receipt from 2024-03-30",
+          "excerpt": "not to be that guy but I totally would’ve noticed SSH being 500ms slower\n\nI then wouldve shrugged and moved on with my life",
+          "source_document_id": "1774175932762185932",
+          "timestamp": "2024-03-30T20:44:39+00:00",
+          "url": "https://x.com/friedkielbasa/status/1774175932762185932",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, thanks, letkma, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_21a35e8d5d7b",
+      "proof_score": 1,
+      "mass": 36.086,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_1cacb0bd4914",
+      "name": "Good",
+      "summary": "Archive cluster around good: 660 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "think",
+        "yeah",
+        "point",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8b5db9e56f94",
+          "title": "Good receipt from 2023-12-07",
+          "excerpt": "@simoj_ birch sap / syrup is good",
+          "source_document_id": "1732798818733977798",
+          "timestamp": "2023-12-07T16:26:46+00:00",
+          "url": "https://x.com/friedkielbasa/status/1732798818733977798",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, think, yeah, point."
+        },
+        {
+          "id": "art_f88d31ab02a9",
+          "title": "Good receipt from 2024-07-10",
+          "excerpt": "I’d like to think I’m pretty good at WFH. Pro tips:\n\n- Cook real food for lunch\n- Go for walks, ideally three times a day\n- Use your lunch break to meet with friends, run errands, hit the gym\n- Travel\n- if possible, adjust your hours for your comfort\n- work from odd places https://t.co/VWUwbUQ5Bc",
+          "source_document_id": "1811103918275113234",
+          "timestamp": "2024-07-10T18:23:17+00:00",
+          "url": "https://x.com/friedkielbasa/status/1811103918275113234",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, think, yeah, point."
+        },
+        {
+          "id": "art_026bc461297b",
+          "title": "Good receipt from 2024-02-09",
+          "excerpt": "@rob_mcrobberson Surprising \n\nMy take is that if you’re an expert its useless but if you’re informed but a noob its pretty good. Do note that everyones a noob at some things right\n\nAlso youve tried gpt 4 right",
+          "source_document_id": "1755994583392240084",
+          "timestamp": "2024-02-09T16:38:28+00:00",
+          "url": "https://x.com/friedkielbasa/status/1755994583392240084",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, think, yeah, point."
+        },
+        {
+          "id": "art_d01ea3de7c5a",
+          "title": "Good receipt from 2024-03-21",
+          "excerpt": "How are the prices so cheap? How are the sandwiches so good? Why don’t I get food poisoning from unrefrigerated stuff with mayo? Where is it all made? Why is famichiki so good? How often do they deliver to rural locations? How is the menu decided on? How is this profitable? Are… https://t.co/IcNehlAjKA https://t.co/tYbRKBlWaj",
+          "source_document_id": "1770656773877141722",
+          "timestamp": "2024-03-21T03:40:46+00:00",
+          "url": "https://x.com/friedkielbasa/status/1770656773877141722",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, think, yeah, point."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ae01e3258a24",
+      "proof_score": 0.999,
+      "mass": 28.75,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_450c9fc644b3",
+      "name": "Think",
+      "summary": "Archive cluster around think: 507 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "don",
+        "yeah",
+        "which",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ca984396cc68",
+          "title": "Think receipt from 2020-09-21",
+          "excerpt": "I think people need to optimize their clothes. How did we end up with such shitty clothing choices? Cotton shirts, cotton pants as far as the eye can see. What did people wear when they needed clothing to actually perform?",
+          "source_document_id": "1308081470322376705",
+          "timestamp": "2020-09-21T16:31:40+00:00",
+          "url": "https://x.com/friedkielbasa/status/1308081470322376705",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, yeah, which."
+        },
+        {
+          "id": "art_b343ceafc4d2",
+          "title": "Think receipt from 2023-12-17",
+          "excerpt": "@nosilverv but lowkey i think youre onto something - i read theories somewhere on the internet a long time ago that buddhism was a way to encourage acceptance of one's social standing",
+          "source_document_id": "1736215530372313398",
+          "timestamp": "2023-12-17T02:43:34+00:00",
+          "url": "https://x.com/friedkielbasa/status/1736215530372313398",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, yeah, which."
+        },
+        {
+          "id": "art_24e9f07b2b57",
+          "title": "Think receipt from 2022-10-25",
+          "excerpt": "@bastard_brian Ngl i think its less \"worse\" and instead \"very high variance\", although mean may be slightly lower\n\nHave had great experience with small stuff too",
+          "source_document_id": "1585021266268131334",
+          "timestamp": "2022-10-25T21:31:32+00:00",
+          "url": "https://x.com/friedkielbasa/status/1585021266268131334",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, yeah, which."
+        },
+        {
+          "id": "art_bedc464108d2",
+          "title": "Think receipt from 2023-03-05",
+          "excerpt": "@bastard_brian I don't feel comfortable reccing things because I think part of the reason why deploying cash is hard is because of how _personal_ it is",
+          "source_document_id": "1632425702875185153",
+          "timestamp": "2023-03-05T16:59:51+00:00",
+          "url": "https://x.com/friedkielbasa/status/1632425702875185153",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, yeah, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_582ee6c13531",
+      "proof_score": 0.973,
+      "mass": 28.863,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_6f3623e03d94",
+      "name": "Yeah",
+      "summary": "Archive cluster around yeah: 415 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yeah",
+        "letkma",
+        "mean",
+        "samswoora",
+        "sense"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3cfeab13c58d",
+          "title": "Yeah receipt from 2024-05-03",
+          "excerpt": "Yeah I have a local LLM (Large Land Mammal) https://t.co/mnz6SQhjGK",
+          "source_document_id": "1786444711047377263",
+          "timestamp": "2024-05-03T17:16:24+00:00",
+          "url": "https://x.com/friedkielbasa/status/1786444711047377263",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, letkma, mean, samswoora."
+        },
+        {
+          "id": "art_564056843369",
+          "title": "Yeah receipt from 2022-08-13",
+          "excerpt": "@dyson_spear Probably yeah. Wikipedia seems to imply so https://t.co/6QEAiH3JH0",
+          "source_document_id": "1558278507322540033",
+          "timestamp": "2022-08-13T02:25:22+00:00",
+          "url": "https://x.com/friedkielbasa/status/1558278507322540033",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, letkma, mean, samswoora."
+        },
+        {
+          "id": "art_1de3de4aace7",
+          "title": "Yeah receipt from 2024-07-06",
+          "excerpt": "oh yeah, i also finally got around to creating a cheatsheet from tristan gooley's \"the secret world of weather\"\n\nalmost done, will post pdf soon https://t.co/KY0Vmzv7PH",
+          "source_document_id": "1809436038642676082",
+          "timestamp": "2024-07-06T03:55:43+00:00",
+          "url": "https://x.com/friedkielbasa/status/1809436038642676082",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, letkma, mean, samswoora."
+        },
+        {
+          "id": "art_4ddde1a99760",
+          "title": "Yeah receipt from 2024-04-02",
+          "excerpt": "@bastard_brian @AlecStapp Yeah I suppose but damn thats huge. \n\nSomeone else mentioned the name recognition effect too",
+          "source_document_id": "1775245262224855330",
+          "timestamp": "2024-04-02T19:33:47+00:00",
+          "url": "https://x.com/friedkielbasa/status/1775245262224855330",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, letkma, mean, samswoora."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_637453149ed2",
+      "proof_score": 0.953,
+      "mass": 27.397,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_729a02519e61",
+      "name": "Samswoora",
+      "summary": "Archive cluster around samswoora: 398 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "samswoora",
+        "lmao",
+        "time",
+        "don",
+        "actually"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2c896ad987ad",
+          "title": "Samswoora receipt from 2023-07-04",
+          "excerpt": "@samswoora \"we're comfortable\"",
+          "source_document_id": "1676229814871621634",
+          "timestamp": "2023-07-04T14:01:45+00:00",
+          "url": "https://x.com/friedkielbasa/status/1676229814871621634",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: samswoora, lmao, time, don."
+        },
+        {
+          "id": "art_aec1fd7f0cd2",
+          "title": "Samswoora receipt from 2023-11-03",
+          "excerpt": "@samswoora i can't believe that i actually believed a permanent record existed in elementary school\n\nhow did this information not get passed down from higher grades",
+          "source_document_id": "1720491873830367707",
+          "timestamp": "2023-11-03T17:23:22+00:00",
+          "url": "https://x.com/friedkielbasa/status/1720491873830367707",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: samswoora, lmao, time, don."
+        },
+        {
+          "id": "art_6b2b89b52cad",
+          "title": "Samswoora receipt from 2024-02-07",
+          "excerpt": "@samswoora Skill issue\n\nYoure meant to pee on the sidewall, minimizing angle between urine and porcelain. https://t.co/Iy9jMsWBJR",
+          "source_document_id": "1755273058976436338",
+          "timestamp": "2024-02-07T16:51:23+00:00",
+          "url": "https://x.com/friedkielbasa/status/1755273058976436338",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: samswoora, lmao, time, don."
+        },
+        {
+          "id": "art_c3658d209a5b",
+          "title": "Samswoora receipt from 2024-04-03",
+          "excerpt": "@samswoora the conclusion ive come to is that it's disagreeableness that you actually need, not being an asshole\n\nits just that being disagreeable is highly correlated with being an asshole\n\nbut like in a hypothetical where steve jobs was still disagreeable while not being an ass, he still…",
+          "source_document_id": "1775328027544859038",
+          "timestamp": "2024-04-03T01:02:40+00:00",
+          "url": "https://x.com/friedkielbasa/status/1775328027544859038",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: samswoora, lmao, time, don."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_010e1aef6ced",
+      "proof_score": 0.949,
+      "mass": 24.85,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_2609ff956aea",
+      "name": "Don",
+      "summary": "Archive cluster around don: 278 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "need",
+        "really",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a6a07ae3a66b",
+          "title": "Don receipt from 2022-08-13",
+          "excerpt": "Also quick follow up in case yall don't know \n\n- cans have plastic linings which leach BPA. If BPA free they instead leach BPS which is ~as bad\n\n- takeout containers are lined in either PFAS or BPA\n\n- paper cartons also lined with above\n\n- food prod. equip also has PFAS linings",
+          "source_document_id": "1558278132410597377",
+          "timestamp": "2022-08-13T02:23:52+00:00",
+          "url": "https://x.com/friedkielbasa/status/1558278132410597377",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, need, really."
+        },
+        {
+          "id": "art_b60270748223",
+          "title": "Don receipt from 2024-07-07",
+          "excerpt": "when y'all feel totally like shit, what do you do?\n\nif i veg out on twitter and youtube i end up feeling worse than when i started\n\nplease don't say walk or exercise - i already do that when possible",
+          "source_document_id": "1809780383082520694",
+          "timestamp": "2024-07-07T02:44:02+00:00",
+          "url": "https://x.com/friedkielbasa/status/1809780383082520694",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, need, really."
+        },
+        {
+          "id": "art_4bfe388cd6fc",
+          "title": "Don receipt from 2024-01-12",
+          "excerpt": "what people don't understand is that since i was a child i've wanted my desk to look like this https://t.co/dakmebpBKC",
+          "source_document_id": "1745884672830439613",
+          "timestamp": "2024-01-12T19:05:17+00:00",
+          "url": "https://x.com/friedkielbasa/status/1745884672830439613",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, need, really."
+        },
+        {
+          "id": "art_238df7a6fba3",
+          "title": "Don receipt from 2024-07-06",
+          "excerpt": "i've gone through my budget and i've learned the following important lessons:\n\n- don't have appendicitis. in fact, don't ever go to doctors\n- don't live in the bay area\n- try to not eat food if you don't need to. consider hibernating during periods of inactivity",
+          "source_document_id": "1809429278179881280",
+          "timestamp": "2024-07-06T03:28:52+00:00",
+          "url": "https://x.com/friedkielbasa/status/1809429278179881280",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, need, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_415c7edc0cc6",
+      "proof_score": 0.913,
+      "mass": 26.889,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
